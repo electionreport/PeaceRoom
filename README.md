@@ -58,3 +58,6 @@ The intent is only to use modern technology to capture data that reporters are a
 # Politically Agnostic
 
 This project is not funded, owned or in anyway associated with any politicial party in any country.
+
+# Contributing & Code of Conduct
+Contributions are welcome, and we ask that the community observe [our code of conduct](https://github.com/electionreport/warroom/blob/master/CODE_OF_CONDUCT.md).
