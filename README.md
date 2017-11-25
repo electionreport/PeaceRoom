@@ -10,8 +10,8 @@ Elections can be for anything:
 
 There are two parts to the system:
 
-1 The reporting portion which is a responsive, mobile friendly mini-survey
-2 The WarRoom where the results are displayed
+1. The reporting portion which is a responsive, mobile friendly mini-survey
+2. The WarRoom where the results are displayed
 
 # Reporter Mobile App
 The mobile app is a hybrid app that will be available on the Android and iPhone platforms only.
@@ -20,14 +20,23 @@ Data gathered:
 
 * Exit Polls
 * Sentimnent Survey
+* Voter Intentions (for no polling day events- e.g. campaign events) to capture data for accurate simulations
+* Rally / Event Sentiments
+* Campaign Promises
+* Policy Sentiment
+* Hot Topic Sentiment
 
 # WarRoom Visualistion Dashboard
 The visualations dashboard is where thee data is presnted with the usual graphs, charts, trend lines etc.
 
 ## Features:
 * Candidate Tracking
+* Candidate Profiles (results tracking based on exit polls, sentinment analysis and social media tracking)
+* Heatmaps
 * District Trend Analysis (if historical data present)
 * Social Media Tracking (based on hastags only and name mentions)
+* Fitering by candidate, trends (current and historical if available), district, state, specific social media
+* Analysis of aal the data collected by the *reporter app*.
 
 # RoadMap
 The current version supppots the main warroom and the reporter modules. In the future we plan to have a heirarchy structure, so for something like a national election, local distrct vote, then state/county level, then national level.
