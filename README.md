@@ -26,7 +26,7 @@ Data gathered:
 * Policy Sentiment
 * Hot Topic Sentiment
 
-# WarRoom Visualistion Dashboard
+# PeaceRoom (as against WarRoom) Visualistion Dashboard
 The visualations dashboard is where thee data is presnted with the usual graphs, charts, trend lines etc.
 
 ## Features:
@@ -39,7 +39,7 @@ The visualations dashboard is where thee data is presnted with the usual graphs,
 * Analysis of aal the data collected by the *reporter app*.
 
 # RoadMap
-The current version supppots the main warroom and the reporter modules. In the future we plan to have a heirarchy structure, so for something like a national election, local distrct vote, then state/county level, then national level.
+The current version supppots the main PeaceRoom and the reporter modules. In the future we plan to have a heirarchy structure, so for something like a national election, local distrct vote, then state/county level, then national level.
 
 # Community
 We hope this project will attract academics, reporters, the gnereal public and others who will contribute in these and other areas:
